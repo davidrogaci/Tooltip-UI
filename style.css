@@ -33,5 +33,5 @@ nav ul li a {
 }
 
 .tooltip:hover::before {
-  content: attr(data-tooltip);
+  content: attr(data-title);
 }
