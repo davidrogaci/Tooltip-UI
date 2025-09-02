@@ -28,6 +28,8 @@ nav ul li {
   margin: 0 10px;
 }
 
+/* ESTILOS BASE DEL TOOLTIP */
+
 .tooltip {
   position: relative;
 }
@@ -58,6 +60,8 @@ nav ul li {
   top: 26px;
   white-space: nowrap;
 }
+
+/* ESTILOS DE TRANSICION */
 
 .tooltip.fade:after,
 .tooltip.fade:before {
